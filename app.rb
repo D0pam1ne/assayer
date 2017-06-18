@@ -1,1 +1,1 @@
-print"It's Assayer!"
+print"It's Assayer, by D0pam1ne and Manlibear!"
